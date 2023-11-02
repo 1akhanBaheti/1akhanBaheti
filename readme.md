@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1akhanbaheti" alt="1akhanbaheti" /></a> </p>
 
-- 🔭 I’m currently working on [Plane](https://github.com/makeplane/plane-mobile)
+- 🔭 I’m currently working on [Plane](https://plane.so/)
 
 - 👨‍💻 All of my projects are available at [https://lakhan.xyz](https://lakhan.xyz)
 
